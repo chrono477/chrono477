@@ -3,7 +3,7 @@
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDFvcm9kYWU5amo4czQzc2J1bWhwdzAzaGdoeWw3ZjdrZWhpNG0ycCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pnbXTbQRmiep8PyWLo/giphy.gif" width="60%" alt="Red Team Banner" />
   <br/><br/>
 
-  <img height="60" alt="Chrono - Red Teamer" src="https://readme-typing-svg.herokuapp.com?size=28&color=FF003C&lines=Chrono+-+Red+Teamer;Offensive+Security+Engineer;Adversary+Simulation+Expert;Ethical+Hacker+%26+Pentester">
+  <img height="60" alt="chrono - Red Teamer" src="https://readme-typing-svg.herokuapp.com?size=28&color=FF003C&lines=Chrono+-+Red+Teamer;Offensive+Security+Engineer;Adversary+Simulation+Expert;Ethical+Hacker+%26+Pentester">
   <br /><br />
 </div>
 
